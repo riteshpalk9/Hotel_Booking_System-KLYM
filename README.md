@@ -40,12 +40,12 @@ A modern, responsive hotel booking web application built with React, TypeScript,
 ## 📸 Screenshots 
 
 ### 🎥 Demo Video  
-[![Watch Demo](src/lib/1.png)](https://www.youtube.com/watch?v=rbB2xSyTLPs)
+(https://www.youtube.com/watch?v=rbB2xSyTLPs)
 
 ### 🖼️ Screenshots  
 ![Home Page](src/lib/1.png)  
 ![Booking Page](src/lib/4.png)  
-![Confirmation Page](src/lib/5.png)
+![Confirmation Page](src/lib/6.png)
 
 
 ---
